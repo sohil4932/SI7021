@@ -8,7 +8,7 @@ Updated: Jul 16, 2015: TomWS1:
         fixed 'sizeof' error in _command(),
         added getTempAndRH() function to simplify calls for C & RH only
 */
-#include "SI7021.h"
+#include "Particle_SI7021.h"
 
 #define I2C_ADDR 0x40
 

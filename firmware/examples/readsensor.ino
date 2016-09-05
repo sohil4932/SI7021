@@ -1,4 +1,4 @@
-#include <SI7021.h>
+#include <Particle_SI7021.h>
 
 
 SI7021 sensor;
